@@ -10,3 +10,5 @@
     ├── feed.xml                    # web订阅源（如atom格式）
     ├── archive.html                # 归档文章
     └── index.html                  # 主页
+
+theme: jekyll-theme-modernist
