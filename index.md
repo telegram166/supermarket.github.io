@@ -1,34 +1,33 @@
-### 一、软件篇
-#### 1、实用软件汇总
+###一、各种代理协议一键安装脚本：
 
-- [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html)
-- [setapp-Mac软件合集订阅](https://setapp.com/)
+#### 1、一键脚本合集工具箱，集合25+优质开源项目：
+  
+```bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/baiyue_onekey/master/go.sh)```
+​
+#### 2、单用户ssr脚本：
+​
+```wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh```
 
-#### 2、一些国内外优秀的软件分享站
+​
+```wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh```
 
-- [xclient](http://xclient.info/?_=599e9726d35da48802f2bfd279461089)
-- [Nmac Ked](https://nmac.to/)
-- [AppKed](https://www.macbed.com/)
-- [mac-torrents](http://mac-torrents.com/)
 
-#### 3、一些优秀的软件分享论坛：
+```bash <(curl -s -L https://233blog.com/ss.sh)```
 
-- [吾爱破解](https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=193)
-- [威锋](https://bbs.feng.com/thread-htm-fid-68.html)
+#### 3、v2ray安装脚本： 
 
-### 二、黑果篇
- 
-- [tonymacx86](https://www.tonymacx86.com)
-- [远景论坛](http://mac.pcbeta.com/forum-13-1.html)
-- [威锋x86](https://bbs.feng.com/thread-htm-fid-68.html)
-- [黑苹果乐园](https://imac.hk/)
-- [硬件efi](https://github.com/daliansky/Hackintosh)
-- [Mojave黑果硬件选择](http://t.cn/EoxbMGN)
+```bash <(curl -s -L https://v2ray66.com/v2ray.sh)```
 
-### 三、macOS使用篇
+```bash <(curl -s -L https://git.io/v2ray.sh)```
 
-- [威锋讨论区](https://bbs.feng.com/thread-htm-fid-68.html)
-- [少数派](https://sspai.com)
-- [白果拆机](https://www.ifixit.com/)
-- [购买mbp须知](https://t.me/Balancer996/104)
+### 二、各种一键服务器优化脚本：
+1、各种bbr加速合集脚本:
+
+```wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh```
+
+2、浪琴bbr加速脚本：
+
+```wget https://raw.githubusercontent.com/iiiiiii1/tcp_nanqinlang-test/master/tcp_nanqinlang-test.sh```
+
+```bash tcp_nanqinlang-test.sh```
 
